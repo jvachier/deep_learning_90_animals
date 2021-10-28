@@ -13,4 +13,4 @@ References:
 https://www.tensorflow.org/tutorials/images/classification#visualize_training_images 
 https://deeplizard.com/learn/video/RznKVRTFkBY
 
-(Additionally, I also uploaded this code on Kaggle.)
+(Additionally, I also uploaded this code on Kaggle. https://www.kaggle.com/jvachier/deep-learning-90-animals)
